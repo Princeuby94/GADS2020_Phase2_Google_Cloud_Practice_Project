@@ -1,5 +1,5 @@
 # GADS2020_Phase2_Google_Cloud_Practice_Project
-Submission of the solutions to the Google Cloud practice project for phase 2 of GADS2020
+Submission of the solutions to Google Cloud practice project for phase 2 of GADS2020
 
 This repository contains the following:
 
